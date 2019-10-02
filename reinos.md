@@ -9,7 +9,6 @@ agur
 
 
 linea 1 (rama)
-
-
+reino rama
 linea 2 (master)
 reino master
